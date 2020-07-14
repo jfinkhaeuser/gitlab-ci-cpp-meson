@@ -12,6 +12,7 @@ ENV DEBIAN_FRONTEND noninteractive
 RUN apt-get -qq update \
  && apt-get install -qqy --no-install-recommends \
       locales \
+      build-essential \
       ninja-build \
       python3 \
       python3-pip \
