@@ -1,5 +1,5 @@
 #
-# GitLab CI: C++ compiles + meson
+# GitLab CI: C++ compilers + meson
 #
 # https://hub.docker.com/r/jfinkhaeuser/gitlab-ci-cpp-meson/
 #
